@@ -25,9 +25,9 @@ export default function Contact() {
           <p className="text-center font-light text-sm xs:text-base">
             Whether you have a question, feedback, or just want to say hello,
             the wizard is here for you. Drop a line using the form below, and
-            I'll get back to you promptly. Your thoughts matter to me, and i'm
-            committed to providing you with the best support possible. Looking
-            forward to hearing from everyone!
+            I&apos;ll get back to you promptly. Your thoughts matter to me, and
+            I&apos;m committed to providing you with the best support possible.
+            Looking forward to hearing from everyone!
           </p>
         </div>
         <Form />
