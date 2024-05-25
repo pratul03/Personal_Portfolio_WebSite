@@ -38,6 +38,13 @@ export const projectsData = [
     date: "2024-03-10",
     demoLink: "https://github.com/pratul03/Hotel-Booking-Management-System",
   },
+  {
+    id: 4,
+    name: "ReConnect",
+    description: "A simple Chat application using react and firebase",
+    date: "2024-05-25",
+    demoLink: "https://github.com/pratul03/ReConnect",
+  },
 ];
 
 export const BtnList = [
