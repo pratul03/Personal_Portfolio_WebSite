@@ -45,6 +45,14 @@ export const projectsData = [
     date: "2024-05-25",
     demoLink: "https://github.com/pratul03/ReConnect",
   },
+  {
+    id: 5,
+    name: "sZoom",
+    description:
+      "An Online video conferencing application built with TypeScript,TailwindCSS, NEXT Js,streamIO",
+    date: "2024-06-27",
+    demoLink: "https://github.com/pratul03/sZoom",
+  },
 ];
 
 export const BtnList = [
