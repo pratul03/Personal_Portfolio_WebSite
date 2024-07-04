@@ -51,6 +51,14 @@ export const projectsData = [
     description:
       "An Online video conferencing application built with TypeScript,TailwindCSS, NEXT Js,streamIO",
     date: "2024-06-27",
+    demoLink: "https://github.com/pratul03/chess",
+  },
+  {
+    id: 6,
+    name: "chess",
+    description:
+      "An Online Chess Game built with TypeScript,TailwindCSS, React Js, Chess Js",
+    date: "2024-07-05",
     demoLink: "https://github.com/pratul03/sZoom",
   },
 ];
