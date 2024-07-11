@@ -61,6 +61,14 @@ export const projectsData = [
     date: "2024-07-05",
     demoLink: "https://github.com/pratul03/chess",
   },
+  {
+    id: 7,
+    name: "Blog App",
+    description:
+      "An Online Blog Application built with TypeScript,TailwindCSS, Next js, shadcn ui, and SANITY io for headless CMS",
+    date: "2024-07-11",
+    demoLink: "https://github.com/pratul03/sanity-blog-nextjs",
+  },
 ];
 
 export const BtnList = [
